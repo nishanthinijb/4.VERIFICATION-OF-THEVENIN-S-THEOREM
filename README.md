@@ -1,10 +1,10 @@
-# 4.VERIFICATION-OF-THEVENIN-S-THEOREM
+## 4.VERIFICATION-OF-THEVENIN-S-THEOREM
 
-**AIM:**
+## AIM:
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
 
-**APPARATUS REQUIRED**:
+## APPARATUS REQUIRED:
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 
@@ -18,9 +18,9 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 
 6.	Multimeter	---	1
 
-**THEORY:**
+## THEORY:
 
-**THEVENIN’S THEOREM:**
+## THEVENIN’S THEOREM:
 
 Thevenin’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a voltage source, VTh (= Voc) in series with a resistor RTh, where VTh is the open-circuit voltage at the load terminals and RThis the input or equivalent resistance at the load terminals( AB) when the independent sources are turned off’.
 
@@ -32,7 +32,7 @@ Thevenin’s Resistance, RTh:
 
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
-**CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+## CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM
 
 To measure IL
 
@@ -51,7 +51,7 @@ Thevenin’s equivalent circuit
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
 
 
-**PROCEDURE:**
+## PROCEDURE:
 
 1.	Make the connections as per the Circuit Diagram:1
 
@@ -78,3 +78,10 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+## RESULT:
+Thus Thevenins theorem is verified theoretically and practically.
+
+## MARKS SPLIT UP:
+<img width="628" height="358" alt="image" src="https://github.com/user-attachments/assets/6d62e9a0-d48b-4d65-aafa-1377a0bbfe4b" />
+
